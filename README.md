@@ -301,7 +301,8 @@ O `GlobalExceptionHandler` usa `@RestControllerAdvice` para interceptar `MethodA
 - [ ] DTOs de request/response (separar entidade da API)
 - [ ] Validação customizada de CPF (dígito verificador)
 - [ ] Busca por nome e e-mail via query params
-- [ ] Testes unitários e de integração completos
+- [x] Testes unitários do service
+- [ ] Testes de integração (controller, repository)
 - [ ] Spring Security com autenticação JWT
 - [ ] Dockerfile para containerizar a aplicação completa
 - [ ] CI/CD com GitHub Actions
